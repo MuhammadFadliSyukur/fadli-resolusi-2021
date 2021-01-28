@@ -1,0 +1,8 @@
+RESOLUSI TAHUN 2021
+1. Bisa coding web programming
+   a. HTML & CSS
+   b. Javascript
+   c. PHP
+   d. dll
+2. Bisa coding mobile
+   a. Flutter
