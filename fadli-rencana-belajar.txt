@@ -2,3 +2,4 @@ Rencana Belajar
 - Belajar PWA
 - Belajar Mobile Applikasi integrasi API
   * saya mau kembangin nature health
+- Belajar AI
